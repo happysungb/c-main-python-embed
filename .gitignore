@@ -1,0 +1,22 @@
+# 🐍 Python build artifacts
+__pycache__/
+*.pyc
+*.pyo
+
+# 📦 가상환경
+pyarmor-env/
+
+# 🔒 PyArmor runtime 및 결과물
+pytransform/
+dist/
+build/
+
+# ⚙️ 실행파일 및 중간 바이너리
+*.exe
+*.dll
+*.so
+*.dylib
+
+# 📂 IDE/Editor 관련 (선택)
+.vscode/
+.idea/
